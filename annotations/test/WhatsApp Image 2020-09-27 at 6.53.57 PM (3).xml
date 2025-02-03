@@ -1,0 +1,26 @@
+<annotation>
+	<folder>clean</folder>
+	<filename>WhatsApp Image 2020-09-27 at 6.53.57 PM (3).jpeg</filename>
+	<path>test/clean/WhatsApp Image 2020-09-27 at 6.53.57 PM (3).jpeg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>998</width>
+		<height>1176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>124</ymin>
+			<xmax>998</xmax>
+			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+</annotation>

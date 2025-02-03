@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dirty</folder>
+	<filename>20160803225753-basuracolumna-0.jpg</filename>
+	<path>test/dirty/20160803225753-basuracolumna-0.jpg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>539</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>91</ymin>
+			<xmax>539</xmax>
+			<ymax>746</ymax>
+		</bndbox>
+	</object>
+</annotation>

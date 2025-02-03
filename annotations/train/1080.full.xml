@@ -1,0 +1,26 @@
+<annotation>
+	<folder>clean</folder>
+	<filename>1080.full.jpeg</filename>
+	<path>train/clean/1080.full.jpeg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1167</xmin>
+			<ymin>891</ymin>
+			<xmax>1947</xmax>
+			<ymax>1653</ymax>
+		</bndbox>
+	</object>
+</annotation>

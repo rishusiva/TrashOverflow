@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dirty</folder>
+	<filename>articulos36_26619.jpg</filename>
+	<path>test/dirty/articulos36_26619.jpg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>69</xmin>
+			<ymin>146</ymin>
+			<xmax>294</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

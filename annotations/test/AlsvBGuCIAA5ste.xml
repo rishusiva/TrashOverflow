@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dirty</folder>
+	<filename>AlsvBGuCIAA5ste.jpeg</filename>
+	<path>test/dirty/AlsvBGuCIAA5ste.jpeg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>1</ymin>
+			<xmax>494</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

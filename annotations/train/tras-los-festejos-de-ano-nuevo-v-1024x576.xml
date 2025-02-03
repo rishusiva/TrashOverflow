@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dirty</folder>
+	<filename>tras-los-festejos-de-ano-nuevo-v-1024x576.jpg</filename>
+	<path>train/dirty/tras-los-festejos-de-ano-nuevo-v-1024x576.jpg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>227</xmin>
+			<ymin>30</ymin>
+			<xmax>526</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

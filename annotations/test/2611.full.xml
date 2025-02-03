@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dirty</folder>
+	<filename>2611.full.jpeg</filename>
+	<path>test/dirty/2611.full.jpeg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>814</ymin>
+			<xmax>2236</xmax>
+			<ymax>2030</ymax>
+		</bndbox>
+	</object>
+</annotation>

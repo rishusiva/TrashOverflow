@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dirty</folder>
+	<filename>20161214fg_0056_1200w.jpg</filename>
+	<path>test/dirty/20161214fg_0056_1200w.jpg</path>
+	<source>
+		<database>clean-dirty-containers-in-montevideo</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>398</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>container</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>24</ymin>
+			<xmax>473</xmax>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+</annotation>
